@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Chandhu Pasupuleti</h1>
 <h3 align="center">A passionate Full Stack developer from United States</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaywertyh" alt="vijaywertyh" /></a> </p>
-
 - 🔭 I’m currently working on **AI And LLM projects**
 
 - 🌱 I’m currently learning **OpenShift And Ml**
