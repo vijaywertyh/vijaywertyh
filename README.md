@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **Node js ,React.Js**
+- 💬 Ask me about **DataBricks,Python,SQL,SnowFlake,AWS,AzureNode js ,React.Js**
 
 - 📫 How to reach me **vijaychandhu2000@gmail.com**
 
