@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Chandhu Pasupuleti</h1>
-<h3 align="center">A passionate Full Stack developer from United States</h3>
+<h3 align="center">A passionate Software developer from United States</h3>
 
 - 🔭 I’m currently working on **AI And LLM projects**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **DataBricks,Python,SQL,SnowFlake,AWS,AzureNode js ,React.Js**
+- 💬 Ask me about **DataBricks,Python,SQL,SnowFlake,AWS,Azure,PowerBI,Node js ,React.Js**
 
-- 📫 How to reach me **vijaychandhu2000@gmail.com**
+- 📫 How to reach me **vijaychandu2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
