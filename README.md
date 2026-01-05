@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Chandhu Pasupuleti</h1>
+<h1 align="center">Hi 👋, I'm Vijay Chandu Pasupuleti</h1>
 <h3 align="center">A passionate Software developer from United States</h3>
 
 - 🔭 I’m currently working on **AI And LLM projects**
